@@ -1,3 +1,3 @@
-# minersweeper.com
+# minersweeper.games
 
-Redirects minersweeper.com (GitHub Pages) to https://dreamti.me/minersweeper/.
+Redirects minersweeper.games (GitHub Pages) to https://dreamti.me/minersweeper/.
